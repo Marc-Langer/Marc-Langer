@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">https:cleverkaufen24.com</p>
+<p align="left">https://cleverkaufen24.com</p>
 
 ###
 
