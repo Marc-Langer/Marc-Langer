@@ -53,13 +53,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/groups/1673374173626325" target="_blank">
+  <a href="https://www.facebook.com/CleverKaufen24" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/cleverkaufen/" target="_blank">
+  <a href="https://www.instagram.com/cleverkaufen24/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/cleverkaufendeals" target="_blank">
+  <a href="https://t.me/schnaeppchenwelt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
